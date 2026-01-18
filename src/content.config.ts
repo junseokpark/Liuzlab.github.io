@@ -119,7 +119,7 @@ const softwares = defineCollection({
   schema: z.object({
     title: z.string(),
     developers: z.array(z.string()),
-    number: z.string(), // Registration Number
+    link: z.string(), // Link to the software
     date: z.date(),
     description: z.string().optional(),
   }),

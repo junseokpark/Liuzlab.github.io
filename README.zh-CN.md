@@ -212,14 +212,14 @@ Scholar-Lite 在 `scripts/import-bibtex.js` 中内置了强大的 **BibTeX 导�
 ### 🎓 更多学术成果管理
 除了论文和书籍，系统还支持以下学术成果的管理。直接在对应文件夹中创建 Markdown 文件即可。
 
-#### 1. 软件著作权 (Software Copyrights)
+#### 1. 软件 (Software)
 *   **位置**: `src/content/softwares/`
 *   **示例**:
     ```markdown
     ---
     title: "智能图像处理系统 V1.0"
     developers: ["张三", "李四"]
-    number: "2023SR123456"
+    link: "https://example.com/image-processing-system"
     date: 2023-06-15
     description: "基于深度学习的自动化图像处理平台。"
     ---
