@@ -1,5 +1,5 @@
 ---
-title: "\textlessspan style=\"font-variant:small-caps;\"\textgreaterMATR3\textless/span\textgreater pathogenic variants differentially impair its cryptic splicing repression function"
+title: "\\textlessspan style=\"font-variant:small-caps;\"\\textgreaterMATR3\\textless/span\\textgreater pathogenic variants differentially impair its cryptic splicing repression function"
 authors: ["Mashiat Khan", "Xiao Xiao Lily Chen", "Michelle Dias", "Jhune Rizsan Santos", "Sukhleen Kour", "Justin You", "Rebekah Van Bruggen", "Mohieldin M. M. Youssef", "Ying‐Wooi Wan", "Zhandong Liu", "Jill A. Rosenfeld", "Qiumin Tan", "Udai Bhan Pandey", "Hari Krishna Yalamanchili", "Jeehye Park"]
 year: 2024
 venue: "FEBS Letters"

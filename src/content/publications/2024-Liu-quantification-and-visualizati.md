@@ -1,5 +1,5 @@
 ---
-title: "Quantification and visualization of \textitcis -regulatory dynamics in single-cell multi-omics data with TREASMO"
+title: "Quantification and visualization of \\textitcis -regulatory dynamics in single-cell multi-omics data with TREASMO"
 authors: ["Chaozhong Liu", "Linhua Wang", "Zhandong Liu"]
 year: 2024
 venue: "NAR Genomics and Bioinformatics"

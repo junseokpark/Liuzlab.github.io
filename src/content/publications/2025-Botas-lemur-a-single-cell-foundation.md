@@ -1,5 +1,5 @@
 ---
-title: "Lemur: A Single-Cell Foundation Model with Fine-Tuning-Free Hierarchical Cell-Type Generation for \textitDrosophila melanogaster"
+title: "Lemur: A Single-Cell Foundation Model with Fine-Tuning-Free Hierarchical Cell-Type Generation for \\textitDrosophila melanogaster"
 authors: ["Jorge Botas", "Johnathan Jia", "Sasidhar Pasupuleti", "Hu Chen", "Xia Hu", "Zhaozhuo Xu", "Zhandong Liu"]
 year: 2025
 venue: "Unknown Venue"

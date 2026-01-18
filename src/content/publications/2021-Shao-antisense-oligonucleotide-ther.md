@@ -1,5 +1,5 @@
 ---
-title: "Antisense oligonucleotide therapy in a humanized mouse model of \textitMECP2 duplication syndrome"
+title: "Antisense oligonucleotide therapy in a humanized mouse model of \\textitMECP2 duplication syndrome"
 authors: ["Yingyao Shao", "Yehezkel Sztainberg", "Qi Wang", "Sameer S. Bajikar", "Alexander J. Trostle", "Ying-Wooi Wan", "Paymaan Jafar-nejad", "Frank Rigo", "Zhandong Liu", "Jianrong Tang", "Huda Y. Zoghbi"]
 year: 2021
 venue: "Science Translational Medicine"
