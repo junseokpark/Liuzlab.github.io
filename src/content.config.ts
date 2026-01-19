@@ -133,8 +133,8 @@ const honors = defineCollection({
     award: z.string(), // e.g., "Gold Medal", "First Prize"
     date: z.date(),
     year: z.string(), // Display year on badge
-    type: z.enum(['Challenge Cup', 'Internet+', 'Other']).default('Other'),
-    level: z.enum(['Special', 'First', 'Second', 'Third']).default('Third'),
+    type: z.enum(['Challenge Cup', 'Internet+', 'Dream Challenge', 'Other']).default('Other'),
+    members: z.array(z.string()), // Team members who received the honor
   }),
 });
 
