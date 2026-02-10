@@ -2,7 +2,7 @@
 name: "Daniel Palacios"
 role: "PhD Student"
 title: ["PhD Student"]
-avatar: "../../assets/daniel-palacios.png"
+avatar: "../../assets/daniel-palacios.jpg"
 bio: "PhD student specializing in AI and machine learning for clinical informatics, developing LLM-powered systems and AutoML workflows for healthcare applications including rare disease identification, postpartum mental health prediction, and pediatric disease analysis."
 email: "Daniel.Palacios@bcm.edu"
 linkedin: "https://www.linkedin.com/in/daniel-palacios-506734224/"
